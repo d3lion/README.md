@@ -17,8 +17,9 @@
   <ul>
     <li><strong>💻 Desarrollo Web</strong></li>
     <li><strong>🤖 Robótica y Automatización Industrial</strong></li>
+    <li><strong>🔒 Entusiasta de la Ciberseguridad</strong></li>
   </ul>
-  🌟 Mi pasión por la ciberseguridad me impulsa a estar siempre al tanto de las últimas tendencias y tecnologías en el campo. Desde pequeño, he tenido una gran afición por los videojuegos, lo que me llevó a aprender diseño en 3D. Disfruto creando soluciones innovadoras y mejorando continuamente mis habilidades.
+  🌟 Mi pasión por la ciberseguridad me impulsa a estar siempre al tanto de las últimas tendencias y tecnologías en el campo. Desde pequeño, he tenido una gran afición por los videojuegos, [...]
 </p>
 
 ###
@@ -37,6 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="logo de css3"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="logo de javascript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="logo de typescript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="logo de react"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="logo de angular"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="logo de mysql"  />
   <img width="12" />
@@ -94,6 +101,17 @@
 
 ###
 
+<h3 align="left">🌐 Idiomas</h3>
+
+---
+
+<ul>
+  <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbh7ofr2aGpSZYUMwjXru0w4XoBoZG-eGMhw&s" height="30" /> <strong>Noruego B1</strong></li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" height="30" /> <strong>Inglés B1</strong></li>
+</ul>
+
+###
+
 <h3 align="center">👀 Visitantes</h3>
 
 ---
@@ -115,4 +133,3 @@
 </div>
 
 ###
-```` ▋
